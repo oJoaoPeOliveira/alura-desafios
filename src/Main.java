@@ -20,5 +20,7 @@ public class Main {
         for (Pessoa pessoa : listaDePessoas) {
             System.out.println(pessoa);
         }
+        
+        System.out.println("Agora vou tentar forçar um conflito ao editar a mesma linha e tentar dar um git pull");
     }
 }
