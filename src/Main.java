@@ -20,5 +20,7 @@ public class Main {
         for (Pessoa pessoa : listaDePessoas) {
             System.out.println(pessoa);
         }
+
+        System.out.println("Vou commitar agora este, para ver se gera um conflito");
     }
 }
