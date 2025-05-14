@@ -22,5 +22,6 @@ public class Main {
         }
 
         System.out.println("Vou commitar agora este, para ver se gera um conflito");
+        System.out.println("Vou tentar dar git push");
     }
 }
